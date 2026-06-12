@@ -1,2 +1,2 @@
 # Dice-roller
-This is just an exercise that a made to practice Java. 
+This is just an exercise that I made to practice Java. 
